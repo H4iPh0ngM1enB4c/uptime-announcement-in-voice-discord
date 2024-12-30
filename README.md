@@ -24,4 +24,4 @@ npm install discord.js
 ```bash
 node bot.js
 ```
-[Cách lấy token bot ở đây] (https://www.writebots.com/discord-bot-token/)
+[Cách lấy token bot ở đây](https://www.writebots.com/discord-bot-token/)
